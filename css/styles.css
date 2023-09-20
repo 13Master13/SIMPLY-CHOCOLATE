@@ -325,28 +325,28 @@ fieldset {
 }
 /* END Advantages section */
 
-/* Ingridients sections */
-.ingridients-subtitle {
+/* Ingredients sections */
+.ingredients-subtitle {
 	text-align: center;
 	margin-bottom: 50px;
 }
 
-.ingridients-list {
+.ingredients-list {
 	display: flex;
 	gap: 20px;
 	flex-wrap: wrap;
 }
 
-.ingridients-item {
+.ingredients-item {
 	flex-basis: calc((100% - 60px) / 4);
 }
 
-.ingridient {
+.ingredients {
 	border: 1px solid var(--c-brand);
 	border-radius: 15px;
 	padding: 28px;
 }
-/* END Ingridients sections */
+/* END Ingredients sections */
 
 /* Video section */
 .video-inner {
